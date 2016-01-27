@@ -10,6 +10,13 @@ display: inline-block;
 }
 
 
+.face {
+width: 15%;
+display: inline-block;
+height:auto;
+padding: 5% 5%;
+}
+
 .about {
 width: 60%;
 text-align: center;
@@ -23,13 +30,6 @@ height:auto;
 .wrapper {
 width: 100%;
 text-align: center;
-}
-
-.face {
-width: 15%;
-display: inline-block;
-height:auto;
-padding: 5% 5%;
 }
 
 .photos {
