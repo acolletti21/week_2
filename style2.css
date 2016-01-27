@@ -1,0 +1,41 @@
+body {
+background-color: #f0e0da;
+Font-family: Tahoma;
+}
+
+h1 {
+font-weight: bold;
+text-align: center;
+display: inline-block;
+}
+
+
+.about {
+width: 60%;
+text-align: center;
+font weight: bold;
+display: inline-block;
+flex-grow: 1;
+font-size: 12;
+height:auto;
+}
+
+.wrapper {
+width: 100%;
+text-align: center;
+}
+
+.face {
+width: 15%;
+display: inline-block;
+height:auto;
+padding: 5% 5%;
+}
+
+.photos {
+width: 90%;
+text-align: center;
+display: inline-block;
+font-size: 12;
+height:auto;
+}
